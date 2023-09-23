@@ -1,0 +1,89 @@
+*{background-color: rgb(68, 67, 67);
+}
+.titulo-pag{color: rgb(249, 250, 252);
+font-size: 32px;
+font-family: 'Inter', sans-serif;
+justify-items: center;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+ul a{color: aliceblue;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    display: inline-flex;
+    text-align: center;
+    padding-right: 15px;
+    text-align: center;
+    list-style: none;
+    }
+
+
+.info-portada{ font-size: 24px;
+color: rgba(216, 219, 221, 0.856);
+font-family: 'Inter', sans-serif;
+}
+
+.imagen-portada{width: 100%;
+height: 80vh;}
+
+.info-famosos{font-size: 24px;
+color:  rgba(216, 219, 221, 0.856);
+font-family: 'Inter', sans-serif;
+margin: 0;}
+
+.imagen-angelina{width: 60%;
+height: 80vh;
+position: relative;
+left: 200px;
+
+}
+
+body{font-weight: 200;
+display: block;}
+
+nav{display: flex;
+justify-content: space-between
+}
+
+/*FOOTER*/
+
+footer{display: flex;
+    flex-direction: column;
+justify-content: space-between;
+}
+
+.img-footer{width: 100%;
+height:90vh ;}
+
+.Menu.footer{color: aliceblue;
+text-decoration: none;
+font-size: 24px;
+font-family: 'Inter', sans-serif;
+justify-content: space-between;
+margin: 0%;
+font-weight: 0%;
+padding-left: 15px;
+
+}
+
+.menu-contacto{color: aliceblue;
+font-size: 24px;
+font-family: 'Inter', sans-serif;
+display: inline;
+text-align: right;
+padding: none ;
+justify-items: center;
+
+
+}
+
+.logo-ig{display: flex;
+height: 50px;
+position: absolute;
+right: 130px;
+top: 1100px
+
+}
